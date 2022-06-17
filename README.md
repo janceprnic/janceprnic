@@ -1,7 +1,7 @@
 Hi 👋 My name is Jan Čeprnić
 ============================
 
-I am a 17-year-old front-end web developer
+I am a 18-year-old front-end web developer
 ------------------------------------------
 
 I have been involved/interested in programming since late 2020. Up until now, I have learned the basics of C++, Java and Python. But I have the most experience in HTML, CSS and Javascript.
