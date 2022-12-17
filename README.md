@@ -7,7 +7,7 @@ I am a front-end web developer
 I have been involved/interested in programming since late 2020. Up until now, I have learned the basics of C++, Java and Python. But I have the most experience in HTML, CSS and Javascript.
 
 *   🌍  I'm based in Bosnia and Herzegovina
-*   🚀  I'm currently working on [my portfolio website and my startup]
+*   🚀  I'm currently working on my portfolio website and my startup
 *   🧠  I'm learning more about Javascript and probably some of its frameworks in the near future
 *   🤝  I'm open to collaborating on any open source projects or startups
 <p align="left">
