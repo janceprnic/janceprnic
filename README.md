@@ -1,4 +1,5 @@
-Hi 👋 My name is Jan Čeprnić
+Hi 👋
+My name is Jan Čeprnić
 ============================
 
 I am a Front-End Web Developer
