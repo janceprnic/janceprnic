@@ -1,14 +1,18 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jan Čeprnić
-===================================================================================================================================
+Hi 👋 My name is Jan Čeprnić
+============================
 
 I am a Front-End Web Developer
 ------------------------------
 
 I have been learning how to code since 2020 when I picked up web development. I mostly work in Webflow, but I also have a lot of experience in custom coding with HTML, CSS, and JavaScript.
 
-*   🌍  I'm based in Bosnia and Herzegovina
-*   🖥️  See my portfolio at [janceprnic.com](http://jancepnic.com)
-*   🤝  I'm open to collaborating on any open-source projects or startups### Skills 
+* 🌍  I'm based in Bosnia and Herzegovina
+* 🖥️  See my portfolio at [janceprnic.com](http://jancepnic.com)
+* 🤝  I'm open to collaborating on any open-source projects or startups
+
+### Skills
+
+
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
