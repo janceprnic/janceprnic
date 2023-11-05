@@ -3,7 +3,8 @@ Hi 👋
 My name is Jan and I am a Front-End Web Developer.
 ------------------------------
 
-I have been learning how to code since 2020 when I picked up web development. I mostly work in Webflow, but I also have a lot of experience in custom coding with HTML, CSS, and JavaScript.
+I have been learning how to code since 2020 when I picked up web development.
+I mostly work in Webflow, but I also have a lot of experience in custom coding with HTML, CSS, and JavaScript.
 
 * 🌍  I'm based in Bosnia and Herzegovina
 * 🖥️  See my portfolio at <a href="https://janceprnic.com" target="_blank">janceprnic.com</a>
